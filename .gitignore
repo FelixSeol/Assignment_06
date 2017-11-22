@@ -1,5 +1,4 @@
 *.iml
-*.mp3
 .gradle
 /local.properties
 /.idea/workspace.xml
